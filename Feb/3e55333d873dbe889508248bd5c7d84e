@@ -1,0 +1,46 @@
+Jamaica’s immigration website exposed thousands of tourist data				
+
+
+
+
+Travelers’ documents and COVID-19 lab results were exposed
+
+
+
+Hundreds of thousands of travelers’ immigration records and COVID-19 test results were discovered to have been left unprotected following a security lapse from the Jamaican government contractor that built the website.
+
+
+
+According to a recent report by the TechCrunch, the storage server that was hosted on Amazon Web Services, was set to public. The cloud storage server storing those uploaded documents was left unprotected and without a password.
+
+
+
+Exposed data included the traveler’s name, date of birth and passport numbers, and even the images of the travelers’ signatures.
+
+
+
+It is unclear for how long the server has been left out in the open, but it stored more than 70,000 negative COVID-19 lab results, over 425,000 immigration documents authorizing travel to the island, and over 250,000 quarantine orders dating back to June 2020, when Jamaica reopened its borders to visitors after the pandemic’s first wave.
+
+
+
+Many of the exposed information in the immigration server are from Americans.
+
+
+
+The Jamaican government contracted Amber Group to build the JamCOVID19 website and app, which the government uses to publish daily coronavirus figures and allows residents to self-report their symptoms.
+
+
+
+The contractor also built the website to pre-approve travel applications to visit the island during the pandemic, a process that requires travelers to upload a negative COVID-19 test result before they board their flight if they come from high-risk countries, including the United States.
+
+
+
+The data is now secure, according to Amber Group’s chief executive following TechCrunch’s request for comment.
+
+
+
+Moreover, data from the app built by Amber Group that was required to be installed by travelers upon their stay in Jamaica are also crucial. The app requires that travelers record short “check-in” videos with a daily code sent by the government, along with their name and any symptoms.
+
+
+
+The blunder exposed more than 1.1 million of those daily updating check-in videos.
